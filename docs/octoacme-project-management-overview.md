@@ -16,9 +16,14 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Engineering Manager / Delivery Lead: manages team capacity, removes systemic blockers, and represents engineering in cross-functional decisions.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- QA / Test Engineer: validates quality, owns test plans, and signs off on release readiness.
+- Designer / UX Lead: leads user research and design, provides implementation-ready specs.
+- Stakeholder / Sponsor: provides strategic direction, approvals, and final go/no-go authority.
+- Support / Operations Representative: ensures operational readiness, leads post-release monitoring, and owns incident response.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for full descriptions and collaboration notes for each role.
 
 ## Key Artifacts
 - Project Charter / One-pager

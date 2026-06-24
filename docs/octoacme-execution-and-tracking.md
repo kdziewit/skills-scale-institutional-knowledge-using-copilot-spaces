@@ -30,7 +30,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
+- Level 2: PM escalates to Product Lead and dependent teams; Engineering Manager engaged for resourcing or systemic issues
 - Level 3: Sponsor-level escalation for business-impacting issues
 
 ## Execution Checklist
@@ -38,3 +38,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA / Test Engineer involved in sprint planning and acceptance criteria review
+- [ ] Designer / UX Lead handoff artifacts (specs, prototypes) linked before work starts
+- [ ] Support / Ops notified of in-flight changes with operational impact
+
+See [Cross-Functional Checklist & Responsibility Matrix](octoacme-cross-functional-checklist.md) for full handoff guidance and role accountability.

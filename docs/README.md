@@ -22,3 +22,4 @@ This folder contains the process documentation for how OctoAcme plans, delivers,
 - [Release and Deployment](octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [Cross-Functional Checklist & Responsibility Matrix](octoacme-cross-functional-checklist.md)

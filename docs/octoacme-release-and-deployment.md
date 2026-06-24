@@ -14,6 +14,11 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- QA / Test Engineer sign-off obtained
+- Support / Operations readiness confirmed (runbooks updated, monitoring in place)
+- Stakeholder / Sponsor go/no-go approval received
+
+See [Cross-Functional Checklist & Responsibility Matrix](octoacme-cross-functional-checklist.md) for the full release readiness checklist with owners.
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
